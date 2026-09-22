@@ -1,3 +1,5 @@
+<img width="321" height="428" alt="Screenshot 2026-09-22 at 23 02 44" src="https://github.com/user-attachments/assets/c521082e-7f1f-451c-8e32-d47362305c10" />
+
 # CodexUsage
 
 CodexUsage is a native, menu-bar-only macOS 14+ app. It shows the percentage remaining in the current Codex five-hour and weekly windows, refreshes every 30 seconds, and keeps the last successful values visible if a refresh fails.
